@@ -51,7 +51,7 @@ ujian tengah semester (**UTS**) dan ujian akhir semester (**UAS**). Topik-topik 
 * [Minggu 4 Sistem Agribisnis: Subsistem Pengolahan Hasil](https://bangtedy.github.io/wasagri/materi/minggu4#1)
 * [Minggu 5 Sistem Agribisnis: Subsistem Pemasaran](https://bangtedy.github.io/wasagri/materi/minggu5#1)
 * [Minggu 6 Sistem Agribisnis: Subsistem Sarana Prasarana](https://bangtedy.github.io/wasagri/materi/minggu6#1)
-* [Minggu 7 Sistem Agribisnis: Subsistem Pembinaan](https://bangtedy.github.io/wasagri/materi/minggu8#1)
+* [Minggu 7 Sistem Agribisnis: Subsistem Pembinaan](https://bangtedy.github.io/wasagri/materi/minggu7#1)
 * Minggu 8 **UJIAN TENGAH SEMESTER**
 * Minggu 9 Bisnis dalam Agribisnis 
 * Minggu 10 Mengelola Agribisnis
