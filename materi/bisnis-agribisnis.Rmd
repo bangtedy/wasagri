@@ -1,0 +1,191 @@
+---
+title: Bisnis Agribisnis
+description: |
+  Peran Manajemen Agribisnis
+author: 
+  - name: Tedy Herlambang
+    url: https://bangtedy.github.io
+    orcid_id: 0000-0002-7296-4357
+date: '2022-06-02'
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+preview: grapevine.png
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  R.options=list(width=60))
+```
+
+## Tujuan Pembelajaran
+
+Setelah mempelajari materi ini, Mahasiswa diharapkan dapat:
+
+- Menjelaskan peran manajemen di dalam agribisnis 
+- Menjelaskan tanggung jawab fungsional dari manajemen 
+- Menjelaskan karakteristik unik dari industri pangan dan agribisnis 
+- Menjelaskan cakupan dan pentingnya sistem produksi dan pemasaran pangan 
+
+<br />
+
+## Pendahuluan
+
+- It is exciting and diverse. 
+- It is changing quickly. 
+- It relies on the weather, uses an incredible array of technology, is tied in every way to our natural resources, and embraces the world. 
+- If you eat, you are involved in it as a consumer of its final products. 
+- If you farm, you are involved in it as a producer of the raw materials that ultimately make their way to the end consumer. 
+- It is the extremely efficient, very complex, global, food and fiber production and
+marketing system.
+- Apa lagi...?
+
+## Sistem Produksi dan Pemasaran
+
+- Made up of thousands of *partisipan* dari hulu sampai hilir, dari petani-petani di Sumber sampai para konsumen di Surabaya, Jakarta dll.
+- It is management that drives and directs the firms, farms,
+and food companies that come together in the food production and marketing system.
+- A retail supermarket, pabrik makanan dan minuman, toko saprotan, keluarga petani:
+each have a person or a group of people responsible for making sure that things get done.
+
+- **These are the managers**.
+
+- Managers are responsible for assuring successful completion of the functions, tasks, and activities that will determine an organization’s success.
+
+## The key functions of management in agribusiness
+
+- The responsibilities of managers in agribusiness are highly varied and can range from ordering inputs for the year ahead, to hiring and firing individuals, to making
+the decision to sell a multi-billion dollar international subsidiary. 
+- A chief executive officer, for instance, is responsible for the overall activities of a large, diversified food or agribusiness firm. 
+- In such firms, teams of managers are likely responsible for specialized
+areas within the firm. 
+- On a smaller farm business, one individual may assume roles ranging from chief executive officer, to manager, to labourer, managing multiple projects at different
+levels simultaneously.
+
+- The practice of management can be broken down into four key functions:
+  + Marketing management
+  + Financial management
+  + Supply chain management
+  + Human resource management
+
+### Manajemen Pemasaran (*marketing management*)
+
+- **Marketing** focuses on the process by which products flow through the food system from producer to final consumer. 
+- It involves the physical and economic activities performed in moving products from the initial producer through intermediaries to the final consumer. 
+- **Marketing management** involves understanding customer needs and effectively positioning and selling products and services in the marketplace. 
+- Marketing management represents an integration of several different activities: selling, advertising, web page design, promotions, marketing research, new-product development, customer service, and pricing 
+- All focused on customer needs, wants, and, ultimately, the quest for customer
+satisfaction.
+- Marketing management is focused on careful and planned execution of how, why, where, when and who sells a product or service and to whom it is sold. 
+- Decisions here include what products to produce, what services to offer, what information to provide, what price to charge, how to promote the product, and how to distribute the product.
+
+### Financial management
+
+- Profit is the driver for agribusinesses as they work to generate the greatest possible returns from their resources. 
+- Successful achievement of this objective means making good decisions, and it means carefully managing the financial resources of the firm. 
+- Financial management is involved in these areas and includes generating the data needed to make good decisions, using the tools of finance to make effective decisions, and managing the assets, liabilities, and owner’s investment in the firm.
+- Financial information allows managers to understand the current “health” of the firm as well as to determine what actions the business might take to improve or grow.
+- Balance sheets and income statements can provide a wealth of information useful in making decisions. 
+- Financial analysis provides agribusiness managers with insights by which to better
+base decisions. 
+  + The tools of finance such as budgeting, ratio analysis, financial forecasting,
+and breakeven analysis can be used by agribusiness managers to develop long-range plans
+and make short-run operating decisions.
+
+### Supply chain management
+
+- The push for quality, the drive for lower costs, changes in the supply chain, and general pressures to be more efficient in meeting consumer demands are swiftly altering the production and distribution activities of agribusiness. 
+- Supply chain management focuses on these areas and provides the tools managers need to meet these operations and logistical challenges. 
+  + As a result, supply chain management has come to the forefront as a key management function for the agribusiness manager.
+  
+- Operations management focuses on the direction and the control of the processes used
+to produce the goods and services that we buy and use each day.
+  + Managers must worry about issues of scheduling, controlling, storing, and shipping as the product moves from the producer’s truck to the supermarket.
+  
+- Logistics management involves the set of activities around storing and transporting
+goods and services. 
+- Shipping and inventory costs are huge costs of doing business for many
+food and agribusiness firms. 
+- The logistics management function is focused on new ways to
+lower these costs, by finding better ways to ship and store product.
+- Successful agribusinesses are those who consistently produce faster, better, and cheaper.
+- Effective supply chain management will continue to be crucial in the
+successful execution of any strategic plan for agribusiness firms.
+- Quicker response to consumer needs,
+faster delivery times, shorter product development cycles and more rapid recovery after service problems are all components of time-based advantage in supply chain management.
+
+### Human resources management
+
+- In the end, management is about people. 
+- Without the ability to manage the human element —the resources each business has in its employees — businesses do not succeed. 
+- When combining efficient management of the marketing/finance/supply chain functions of the business, with the thoughtful management of the human side of the business, managers are on the road to successful implementation of their strategy.
+- Agribusiness managers who can manage people well can signifi cantly impact both productivity and financial success. 
+- Human resources management encompasses managing two areas: 
+  + the mechanics of the personnel administration, and the finer points of motivating
+people to offer and contribute their maximum potential. 
+- Decisions here include how to organize the firm, where to find people, how to hire them, how to compensate them and how to evaluate them.
+- Today’s lean agribusiness firms continue to demand more performance from their managers, sales force, and service and support personnel.
+- These types of demands will require agribusinesses to hire individuals with greater initial skills as well as with the ability to grow into different jobs throughout the course of their careers. 
+- Agribusinesses will need to be flexible while providing continuing education and
+development of key skills. Some examples of such skills are general business, negotiation, problem-solving, technical, information management, and communication.
+- Recognition of raw ability, and then development and fine-tuning these skills and abilities will be the human resource challenge.
+
+### Unique dimensions of the food and agribusiness markets
+
+#### Food as a product.
+
+- Food is vital to the survival and health of every individual. 
+- Food is one of the most fundamental needs of humans, and provides the foundation for economic development — nations first worry about feeding their people before turning their attention to higher order needs. 
+- For these reasons, food is considered a critical component of
+national security.
+
+#### Biological nature of production agriculture.
+
+- Both crops and livestock are biological organisms — living things. The biological nature of crops and livestock makes them particularly susceptible to forces beyond human control. 
+- The variances and extremes of weather, pests, disease, and weeds exemplify factors that greatly impact production.
+- In many cases, little can be done to affect them outright. 
+
+#### Seasonal nature of business.
+
+- Partly as a result of the biological nature of food production, firms in the food and agribusiness markets can face highly seasonal business situations.
+
+- Sometimes this seasonality is supply driven — massive amounts of potatoes, tomatoes and mangoes are harvested.
+- Sometimes this seasonality is demand driven — the market for ice cream has a series of seasonal peaks and valleys, as do the markets for blewah or semangka.
+- Such ebbs and flows in supply and demand create special problems for food
+and agribusiness managers.
+
+#### Uncertainty of the weather.
+
+- Food and agribusiness firms must deal with the vagaries of nature. 
+- Drought, flood, insects, and disease are a constant threat for most agribusinesses.
+- All market participants, from the banker to the crop production chemical manufacturer are concerned with the weather. 
+
+#### Types of firms
+
+- There is tremendous variety across the types of businesses in the food and
+agribusiness sectors. 
+- From farmers to transportation firms, brokers, wholesalers, processors, manufacturers, storage firms, mining firms, financial institutions, retailers, food
+chains, and restaurants — the list is almost endless. 
+- Following sebutir kentang from the time it is seed prepared for shipment to the farmer until its placement on the retail grocer’s shelf involves numerous types of business enterprises. 
+
+#### Variety of market conditions.
+
+- The wide range of firm types and the risk characteristics of the food and agribusiness markets have led to an equally wide range of market structures.
+- Padi, bawang merah, kentang, kubis, berbagai jenis buah-buahan --> find themselves in an almost textbook case of the perfectly competitive market where individual sellers have almost no influence over price. 
+- At the same time, daging dan telur ayam, susu--> have a literal monopolistics competition?? 
+
+#### Rural ties
+
+- Many agribusiness firms are located in small towns and rural areas. 
+- As such, food and agribusiness are likely the backbone of the rural economy and have a very important role in rural economic development.
+
+#### Government involvement
+
+- Due to almost every other factor raised above, the government has a fundamental role in food and agribusiness. 
+- Some government programs influence commodity prices and farm income. 
+- Others are intended to protect the health of the consumer through safe food and better nutrition information. 
+- Still other policies regulate the use of crop protection chemicals, and affect how livestock producers handle animal waste. 
+- Tariffs and quotas impact international trade. 
+- The government, through policies and regulations, has a pervasive impact on the job of the food and agribusiness manager.

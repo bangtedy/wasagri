@@ -1,0 +1,224 @@
+---
+title: "Subsistem Pengolahan Hasil"
+author: "Tedy Herlambang"
+date: "`r Sys.Date()`"
+output:
+  prettydoc::html_pretty:
+    theme: cyman
+    highlight: github
+---
+
+### Capaian Pembelajaran
+Setelah mempelajari materi ini mahasiswa seharusnya dapat:
+
+1. Menjelaskan pengertian pengolahan hasil pertanian
+2. Menjelaskan alasan pentingnya pengolahan hasil pertanian
+3. Menjelaskan berbagai alternatif pengolahan hasil pertanian
+4. Menjelaskan hubungan antara pengolahan pangan dengan keamanan pangan
+
+---
+
+### Pengolahan Hasil
+
+- Definisi sederhana dari pengolahan hasil berhubungan dengan konversi bahan mentah dari dan produk pertanian menjadi berbagai macam produk untuk konsumsi manusia. 
+  - kedelai --> tempe tahu --> tahu tempe goreng
+  - buah --> selai, jus
+
+- Pengolahan: transformasi bahan mentah dengan cara fisik atau kimia menjadi produk lain yang lebih menarik, lebih laku dijual, awet dan bermutu.
+  - pisang mentah --> pisang coklat (secara fisik atau kimiawi?)
+  - singkong --> menjadi apa?
+  - secara fisik: dijemur, digiling, diiris, dll
+  - secara kimiawi: diberi pewarna? pengawet?
+
+- In other words, it consists in the transformation of raw or cooked ingredients by physical or chemical means, into other marketable food products that are more suitable or appealing to be consumed, aiming to **extend their shelf life** or **improve their quality** (Compton et al.,2018). 
+
+- Tujuan awal dari pengolahan adalah untuk pengawetan, tetapi kemudian terjadi pengolahan juga dapat meningkatkan karakteristik organoleptik dari produk: rasa, penampilan, warna, aroma, bentuk dan tekstur bahkan kandungan nutrinya menjadi lebih baik.
+
+- The main purpose of food processing is its preservation, but later it was discovered that organoleptic characteristics such as taste, appearance, flavour, colour, aroma, texture and shape, or even nutritional value can be attractively improved by
+applying different processing methods. 
+
+- Tujuan utama industri pengolahan hasil pertanian: memperpanjang masa hidup produk dengan menghambat perubahan mikrobiologi dan biokimia dan memperbaiki karakteristik organoleptik mempertahankan karakteristik nutrisi pangan.
+
+- These are effectively the main goals of the food industries; on one side they intend to extend foods shelf life by inhibiting microbiological and biochemical changes, and on the other side they yield improvements of the organoleptic characteristics preserving food’s nutritional characteristics (Alexandre et al., 2013).
+
+- Konsumen semakin sadar akan manfaat pangan bagi kesehatan manusia, sehingga meningkatkan permintaan akan produk bermutu tinggi, kandungan nutrisi seperi produk yang masih segar, memacu pengembangan metode pengolahan pangan baru.
+
+- Consumers are increasingly aware of natural food benefits on human health,
+thus, the demand for high-quality food products, with fresh-like properties and high
+nutrient content, led to the necessary development of new food processing methods.
+
+---
+
+### Indikator mutu pangan olahan (*Quality indicators for processed food*)
+
+- Pengolahan pangan bertujuan untuk menjamin tidak hanya pengawetan karakter organoleptik dari produk segar tetapi juga keamanan pangan selama dikonsumsi.
+
+- Food processing aims to guarantee not only the preservation of organoleptic properties of fresh products but also food safety during food consumption.
+
+- Mutu pangan meliputi karakteristik kimia, fisik dan sensori dari produk pangan (olahan)
+
+- Food quality includes chemical, physical, and sensory characteristics of food
+products. 
+
+- These properties may be assessed by sensory inspection at purchase time
+or require quantification through instrumental measurements. 
+
+- For example, consumers through vision, touch, or smell can easily evaluate external attributes such as overall appearance, size, shape, aroma, colour, state of maturation, and defects. 
+  - Perhatikan konsumen yang memilih durian!
+
+- But internal properties or hidden characteristics such as taste, flavour, texture, nutritive value, and wholesomeness cannot be assessed by consumer before purchase and
+some of that only can be evaluated through some specific instrumental measurements (Anonymous, 2002, Rico et al., 2007, Alexandre et al., 2012). 
+  - Berapa kali Anda salah memilih durian?
+
+- Quality is also associated with food components (soluble solids content, starch content, carotenoids, sugar, ascorbic acid, total flavonoids, total phenolic, total tannins, total anthocyanins, antioxidant activity, among others) that have a positive and functional impact on human health. 
+  - Bagaimana cara mengetahui komponen-komponen itu?
+
+- Fruits and vegetables are important sources of vitamins, fibers, minerals, and antioxidants that play an essential role in the human diet preventing numerous diseases (Abasi et al., 2018). 
+
+- In fruit, the external indicators of quality are the shape, size, skin colour, and general appearance; ukuran, warna, kulit rusak apa tidak, memar, berbau busuk dll.
+
+- Tetapi, other internal characteristics are also important, such as soluble solids content,titratable acidity, ratio of soluble solids to titratable acidity, pH, starch and sugar content, carotenoids, ascorbic acid, total flavonoids, total phenolic, and antioxidant activity. 
+
+- For vegetables, nutritional composition, antioxidant activity, along with
+enzymatic activity and texture are the most important quality properties. 
+  - Mutu sayuran
+
+- Daging: steak,roast, cubed, minced properties, colour, fat, protein content, and marbling were important quality properties for meat products (Abasi et al., 2018). 
+
+- Fish is known to be an important supplier of micronutrients such as vitamins A and D, minerals such as calcium, phosphorus, magnesium, iron, zinc, selenium, fluorine and iodine, and essential fatty acids (Arino et al., 2005). However, one of the most important quality indicators common to all food products is *food safety*.
+
+---
+
+### Keamanan Pangan (*Food Safety*)
+
+- Keamanan pangan berhubungan dengan jaminan bahwa pangan tidak akan membahayakan konsumen setelah produk itu disiapkan dan dimakan sesuai dengan peruntukannya.
+
+- Food safety is related with the guarantee that food will not cause harm to the
+consumer when it is prepared and eaten according to its intended use (Alexandre
+et al., 2013). 
+
+- Microbial counts of Gram-positive (such as Bacillus cereus, Staphylococcus aureus, Methicillin-resistant S. aureus, and L. monocytogenes) or Gram-negative (such
+as Salmonella enteritidis, Pseudomonas aeruginosa, and E. coli) food contaminant/pathogenic bacteria or even counts of total bacteria, coliform bacteria, or molds and yeasts are frequently considered food quality features that can be used as indicators of processed food safety (Alexandre et al., 2013). 
+
+  - Dikompleks kos mahasiswa seringkali terjadi wabah diare!
+
+- Some examples of unsafe food that commonly provoke food-borne diseases include uncooked foods of animal origin, fruits and vegetables contaminated with feces, raw shellfish and industrial pollution. 
+  - Kasus seperti masih sering kita temui di sekitar kita
+
+- Raw products often contain a great diversity of microbial flora that can be involved in food-borne outbreaks and may cause serious illnesses. The pathogens/commodities most frequently responsible for outbreak-related illnesses were norovirus/leafy vegetables, Clostridium perfringens/poultry, Salmonella/vine-stalk vegetables, and C. perfringens/beef (Fung et al., 2018). 
+  - Beberapa orang setelah makan sayur kangkung, lalapan mengalami diare...apakah penyebabnya?
+
+- The symptoms of food contamination frequently include headache, muscle pain, nausea, fatigue, chills or fever, stomach or abdominal pain, vomiting, and **diarrhea**. 
+
+- Children and elderly are particularly vulnerable groups and food poisoning may be even a fatal illness for those due to some specific pathogenic bacteria (Alexandre et al., 2012). 
+
+- Other beneficial gut microbiota such as Lactobacillus and Bifidobacterium strains also can be used as quality markers, but in a different way since these microorganisms are beneficial and do not compromise the consumer’s health.
+
+---
+
+### Sumber kontaminan Pangan (*Food contamination sources*)
+
+- Terdapat banyak jalur kemungkinan kontaminasi pangan...sepanjang rantai pasokan dari hulu sampai hilir. 
+- Food products can become contaminated at any point from farm to table, as well as during production, processing, shipping, and distribution.
+
+- Kontaminan pangan bisa digolongkan sebagai kontaminan biologi, kimia, fisik atau perpaduan dari tiga ini.
+
+- Food contamination can be classified as biological, chemical, physical, or of
+cross-contamination nature. 
+
+  - Biological contamination is when food is contaminated with infectious bacteria (such as Salmonella spp. and L. monocytogenes) or toxin-producing organisms (such as Clostridium botulinum) and viruses (such as norovirus), which are a common cause of food poisoning and food spoilage.
+  
+  - Chemical contamination happens when a food product is exposed to chemicals (such as food additives, heavy metals, dioxins, radionuclides, veterinary drug residues and pesticides residues, as well as contaminants from processing and packing or other environmental contaminants) that can lead to chemical food poisoning.
+  
+  - Physical contamination occurs when foreign objects (such as metal filings, glass,
+jewelry, stones, or bone chips) contaminate foods and sometimes these objects can also be the vehicle for biological contamination (cross-contamination) if they harbour
+dangerous bacteria. Cross-contamination occurs when bacteria or pathogens are transported from one object to another that will contaminate food products (Mitchell et al., 2014).
+
+---
+
+### Sumber kontaminan penting dalam pengolahan 
+  
+1. external raw food contamination due to environmental contamination (example of pesticides, fertilizers, toxic heavy metals, antibiotic residues, etc.); --> pertemuan ketiga kita telah membahas tentang pupuk kimia dan pestisida.
+
+2. transport of raw materials to the factory where they will be processed (caused by vehicle exhaust from petrol and diesel or cross contamination in the vehicle used for food transportation);
+
+3. food conditioning, which involves the storage of raw materials, preheating, disinfection,cleaning, and sterilization steps (some common surfactants used to clean are quaternary ammonium compounds and nonionic surfactants);
+  - beberapa buah-buahan dilapisi bahan tertentu agar awet?
+  
+4. heating, which includes boiling, cooking, baking, frying, or combining with other ingredients at high temperature in an oven or in a reactor (certain toxics compounds such as acrylamide, nitrosamines chloropropanols, furanes, or Polycyclic Aromatic Hydrocarbons (PAHs) can be formed in foods processing);
+
+5. food packaging (different additives such as antioxidants, stabilizers, slipping agents, or plasticizers are commonly added to the package polymers to improve material properties that can end up transferred to food in a phenomenon called migration);
+
+6. transport, storage, and food distribution (packaging material properties can be affected, low temperature and humidity) (Nerı´n et al., 2016).
+
+---
+
+### Pengepakan (*packaging*)
+
+- Sekitar 1,3 milyar ton pangan terbuang sia-sia (30% dari total produksi pangan untuk konsumsi).
+
+- About 1.3 billion tons of food are wasted and lost in the world every year; this statistic represents approximately one-third of the food produced for consumption
+(FAO, 2015). 
+
+- Most food losses are related to microbiological growth and oxidative processes that affect food during the many stages of production (Prakash et al.,2015). 
+
+- Several technologies have been studied to reduce food losses, among them the development of packaging capable of reducing or delaying deterioration processes (Otoni et al., 2016). 
+
+ - Pengepakan dapat mengurangi kerusakan pangan, menunda proses pembusukan, menjaga mutu produk.
+
+- To conserve foods while reducing losses, packaging has significant functions due to its ability to keep the product safe from external damage. If no packaging was used, food waste would be higher than it actually is.
+
+- Despite the basic functions of packaging regarding food protection, it might be
+used as an active keeper of product quality (Robertson, 2013). This means an
+increase in shelf life through prevention of antimicrobial growth and oxidative pro-
+cesses, which are the main causes of food degradation (Lo´pez-De-Dicastillo et al.,
+2012). 
+
+- the new trends in designing materials for food packaging, the development of sustainable materials from agriculture suggests better use of these resources
+while decreasing environmental pollution (Benbettaı¨eb et al., 2016)
+
+- Tetapi pengepakan kadang menimbulkan masalah sendiri yaitu sampah yang mencemari lingkungan.
+
+  - Jaman dulu, orang-orang tua kita menggunakan daun pisang, daun jati untuk membungkus makanan. Jaman now menggunakan plastik yang tidak mudah diurai.
+
+---
+
+### Fungsi Pengepakan
+
+- Packaging performs important tasks to maintain the quality of food products, from
+processing and manufacturing, through handling and storage, until transportation to
+the final consumer. 
+
+- The four primary functions of packaging are containment, protection, convenience, and communication.
+
+- Without packaging materials, handling of food would be messy and inefficient as well as costly, and marketing would not be possible.
+
+- To maintain the quality and safety of food and extend its shelf life, packaging must prevent unfavourable conditions such as the presence of spoilage microorganisms, chemical contaminants, oxygen, moisture, light, and external force. 
+
+- Thus, the packaging material is required to offer physical protection and proper physicochemical conditions for products, for example, hindering gain or loss of moisture, preventing microbial contamination and acting as a barrier against permeation of water vapour, oxygen, carbon dioxide, and other volatile compounds, in addition to the basic properties of packaging (Brown et al., 2011; Rhim et al., 2013; Singh and Singh, 2005).
+
+---
+
+### Penggunaan Biopolimer
+
+- Innovative packaging solutions have been made using renewable biological
+resources, generally called biopolymers. 
+- These biomacromolecules can be obtained from the metabolism of microorganisms (e.g., polyhydroxy butyrate), chemical synthesis of bioderived monomers (e.g., polylactate), plant biomass (e.g., starch and cellulose), and byproducts from food industries (e.g., gelatin, whey protein and chitosan) (Benbettaı¨eb et al., 2016a; Rhim et al., 2013).
+
+---
+
+### Penyimpanan
+
+- Perishable foods, such as fruits and vegetables, dairy, fish, and meat products, have a limited shelf life after harvest or production. 
+- The delay before they become unmarketable or inedible depends on the food product itself and a number of environmental factors. 
+- These environmental factors include the storage temperature, pressure and relative humidity, and composition and velocity of surrounding gas.
+- A temperature too high increases the rate of respiration and the growth of microorganisms, which can spoil some food products in a few hours or days (Giannakourou and Taoukis, 2003; Hertog et al., 2014; Gwanpua et al., 2015). 
+- A temperature too low can create cold injuries and render the food product unmarketable (Heap, 2006; Aghdam and Bodbodak, 2014).
+- In contrast, perishable food products kept at the proper temperature can generally
+remain of high quality for multiple days or weeks, or even multiple months or years
+in the case of frozen food (Mercier et al., 2017).
+
+> Therefore, refrigeration plays a critical role in food loss.
+
+Materi ini sebagian besar diambil dari **Charis M. Galanakis. 2019. Saving Food Production, Supply Chain, Food Waste, and Food Consumption. Academic Press**.
+

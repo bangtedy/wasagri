@@ -7,43 +7,40 @@ output:
     theme: cayman
     highlight: github
 ---
-
+## Deskripsi Mata Kuliah
 ### Kode Mata Kuliah: PA1431
 ### SKS/Pertemuan: 2/16
 
+Mata kuliah ini memperkenalkan kepada mahasiswa tentang agribisnis sebagai sebuah sistem dan sebagai praktek manajemen. Mata kuliah ini memperkenalkan secara umum dan tidak mendalam prinsip-prinsip ekonomi serta konsep-konsep manajemen di dalam bisnis pertanian.
 
-Mata kuliah ini memperkenalkan kepada mahasiswa tentang agribisnis sebagai sebuah sistem dan/atau sebagai praktek manajemen. Mata kuliah ini memperkenalkan secara umum dan tidak mendalam prinsip-prinsip ekonomi serta konsep-konsep manajemen di dalam bisnis pertanian. Pembahasan manajemen agribisnis meliputi: manajemen rantai pasok, manajemen pemasaran, manajemen risiko, manajemen SDM dan kepemimpinan dalam agribisnis.
-
-#### Tujuan Pembelajaran
+## Tujuan Pembelajaran
 
 Setelah mengikuti perkuliahan ini, secara umum mahasiswa diharapkan dapat memahami prinsip-prinsip dasar ekonomi dan bisnis yang diterapkan pada sektor pertanian dari hulu sampai hilir.
 
-Secara khusus, mahasiswa diharapkan dapat:
+Secara khusus, mahasiswa diharapkan mampu:
 
-* Menjelaskan agribisnis sebagai suatu sistem.
-* Menjelaskan konsep-konsep dasar manajemen agribisnis.
-* Menjelaskan bagaimana ekonomi mempengaruhi fondasi pasar dan pemasaran produk agribisnis, kinerja agribisnis dan manajemen agribisnis.
-* Menjelaskan kerangka ekonomi dimana seorang manajer agribisnis membuat keputusan
-* Menerapkan konsep-konsep manajemen agribisnis pada persoalan spesifik fungsi bisnis
+* Menjelaskan agribisnis sebagai sebuah sistem.
+* Menjelaskan agribisnis sebagai praktik manajemen.
+* Menjelaskan faktor-faktor yang mempengaruhi fondasi pasar, pemasaran, kinerja sistem dan manajemen agribisnis.
+* Menjelaskan fungsi-fungsi bisnis spesifik pada agribisnis.
 
 
-#### Kegiatan Pembelajaran
+## Kegiatan Pembelajaran
 
-Pelaksanaan Pembelajaran Semester Genap Tahun Akademik 2O21/2O22 dilakukan dengan *Tatap Muka Terbatas*. Metode perkuliahan adalah kombinasi antara ceramah, diskusi, latihan dan presentasi kelompok. Mahasiswa harap memperhatikan pengumuman yang disampaikan dosen di WAG yang sudah dibentuk. 
+Pelaksanaan Pembelajaran Semester Genap Tahun Akademik 2O22/2O23 dilakukan secara **luring** atau **daring**. Metode perkuliahan adalah kombinasi antara ceramah, diskusi, latihan dan presentasi kelompok. Mahasiswa harap memperhatikan pengumuman yang disampaikan dosen di WAG yang sudah dibentuk. 
 
 Untuk dapat mengikuti perkuliahan dengan baik, mahasiswa sebaiknya membaca terlebih dahulu buku acuan pada bab-bab yang sesuai dengan materi pada minggu yang berkaitan dan mengerjakan tugas/latihan yang diberikan pada saat perkuliahan. Mahasiswa harus mereview semua bahan yang diberikan selama 14 kali untuk persiapan UTS dan UAS. 
 
-#### Buku Acuan
+## Buku Acuan
 
 1. Van Fleet, David D.; Ella W. Van Fleet, dan George J. Seperich (2014). *Agribusiness: Principles of Management*. Cengage Learning
 
 2. Karmini (2020). Dasar-dasar Agribisnis. Mulawarman University Press
 
-#### Sekilas Materi
+## Materi
 
 Perkuliahan dilakukan sebanyak 14 kali pertemuan dan 2 kali pertemuan untuk
 ujian tengah semester (**UTS**) dan ujian akhir semester (**UAS**). Topik-topik yang akan dibahas sebagai berikut:
-
 
 * [Minggu 1 Agribisnis: Sistem dan Manajemen](https://bangtedy.github.io/wasagri/materi/minggu1#1)
 * [Minggu 2 Sistem Agribisnis: Subsistem Produksi/Budidaya](https://bangtedy.github.io/wasagri/materi/minggu2#1)
@@ -53,31 +50,31 @@ ujian tengah semester (**UTS**) dan ujian akhir semester (**UAS**). Topik-topik 
 * [Minggu 6 Sistem Agribisnis: Subsistem Sarana Prasarana](https://bangtedy.github.io/wasagri/materi/minggu6#1)
 * [Minggu 7 Sistem Agribisnis: Subsistem Pembinaan](https://bangtedy.github.io/wasagri/materi/minggu7#1)
 * Minggu 8 **UJIAN TENGAH SEMESTER**
-* Minggu 9 Bisnis dalam Agribisnis 
-* Minggu 10 Mengelola Agribisnis
-* Minggu 11 Ilmu Ekonomi untuk Manajer Agribisnis
+* Minggu 9 Ilmu Ekonomi untuk Manajer Agribisnis  
+* Minggu 10 Bisnis dalam Agribisnis 
+* Minggu 11 Mengelola Agribisnis
 * Minggu 12 Manajemen Pemasaran untuk Agribisnis
 * Minggu 13 Manajemen Keuangan untuk Agribisnis
 * Minggu 14 Manajemen Operasi untuk Agribisnis
 * Minggu 15 Manajemen Sumber Daya Manusia untuk Agribisnis
 * Minggu 16 **UJIAN AKHIR SEMESTER**
 
-#### Evaluasi dan Penilaian
+## Evaluasi dan Penilaian
 
 Nilai Akhir untuk mata kuliah Kepemimpinan Agribisnis terdiri dari nilai ujian tengah semester (UTS), nilai ujian akhir semester (UAS) dan nilai komponen lain (KL). Nilai KL terdiri dari tugas individu, tugas kelompok, presentasi, kehadiran dan keaktifan. 
 
-#### Tugas Individu/Kelompok
+## Tugas Individu/Kelompok
 
 Tugas diberikan pada saat kuliah dan wajib dikerjakan oleh mahasiswa dan
 hasilnya dikumpulkan sesuai dengan waktu yang telah ditetapkan. Keterlambatan pengumpulan tugas akan mengurangi nilai sebesar 10 satuan per hari dengan batas maksimum keterlambatan 5 hari.
 
-#### Persebaran NIlai
+## Persebaran NIlai
 
 1. UTS dan UAS dilakukan melalui ujian tertulis dengan bobot maksimum 60%
 
 2. KL dinilai melalui keaktifan mahasiswa pada aktivitas pembelajaran (tugas-tugas, diskusi, presentasi dan kehadiran) dengan bobot 40%.
 
-#### Selang Penilaian
+## Selang Penilaian
 
 |No|Nilai|Bobot|Min|Max|Lulus|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -90,11 +87,11 @@ hasilnya dikumpulkan sesuai dengan waktu yang telah ditetapkan. Keterlambatan pe
 |7|D|1| 45|54.9| T|
 |8|E|0|0|44.9| T|
 
-#### Kejujuran Akademik dan Plagiarisme 
+## Kejujuran Akademik dan Plagiarisme 
 
 Mahasiswa harus mengikuti kebijakan dan aturan Universitas tentang kejujuran akademik dan plagiarisme seperti yang tertuang dalam pedoman akademik. Pelanggaran terhadap kebijakan tentang kejujuran akademik dan plagiarisme akan diberikan sanksi dari surat teguran, diberi nilai nol, skorsing sampai dikeluarkan dari Universitas.
 
-#### Kehadiran dan Disiplin Mahasiswa
+## Kehadiran dan Disiplin Mahasiswa
 
 Dalam hal perkuliahan dilakukan secara *luring*:
 
@@ -108,16 +105,12 @@ Dalam hal perkuliahan dilakukan secara *luring*:
 
 5. Mahasiswa yang menyelesaikan kurang dari 50% tugas-tugas/ujian yang diberikan akan diberi nilai **E** (tidak lulus). 
 
-6. Tidak ada ujian dan penugasan perbaikan.
+6. **Tidak ada ujian dan penugasan perbaikan**.
 
-#### Tindak Kekerasan dan Pelecehan
+## Tindak Kekerasan dan Pelecehan
 
 Mahasiswa harus selalu menjaga sopan santun dan menghormati semua dosen, tenaga pendidikan, petugas keamanan, tenaga kesehatan dan sesama mahasiswa. Perilaku dan tindak kekerasan serta pelecehan yang mendisrupsi kegiatan pembelajaran, mengakibatkan kerusakan fasilitas dan properti kampus, akan diproses sesuai dengan aturan yang berlaku.
 
-#### Evaluasi Perkuliahan dan Dosen
+## Evaluasi Perkuliahan dan Dosen
 
 Masukan mahasiswa untuk tujuan perbaikan perkuliahan akan diperhatikan dengan sangat serius. Mahasiswa sangat diharapkan menyisihkan waktu di setiap akhir semester untuk memberikan masukan dan evaluasi terkait dengan pelaksanaan perkuliahan dan dosen pengajar. Evaluasi dan masukan yang diberikan tidak akan mempengaruhi kelulusan dan nilai akhir.
-
-#### Teknologi yang Diperlukan
-
-Teknologi yang diperlukan untuk perkuliahan ini adalah komputer dengan perangkat lunak yang mendukung, telepon seluler dan koneksi internet. 

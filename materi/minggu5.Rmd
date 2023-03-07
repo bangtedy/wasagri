@@ -1,0 +1,168 @@
+---
+title: "Subsistem Pemasaran"
+author: "Tedy Herlambang"
+date: "`r Sys.Date()`"
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+---
+
+### Capaian Pembelajaran
+
+Setelah mempelajari materi ini mahasiswa seharusnya dapat:
+
+1. Menjelaskan berbagai pendekatan dalam menganalisis pasar pertanian,
+2. Menjelaskan berbagai aktivitas yang dilakukan di pasar pertanian, peran para pelaku dan lembaga-lembaga dalam pemasaran produk pertanian, 
+3. Menjelaskan fungsi pemasaran pertanian, lembaga, pelaku, proses pasar dan permasalah dalam pengorganisasiannya.
+
+<br />
+
+### Pendahuluan
+
+- Pemasaran sebagai salah satu subsistem di dalam agribisnis sangat beragam aktivitas, pelaku dan lembaga yang terlibat tergantung pada komoditasnya.  Keragaman ini karena perbedaan musim produksi, perbedaan dalam penanganan, penyimpanan dll. 
+- Pemasaran produk pertanian meliputi layanan dan fungsi berbagai lembaga serta perantara. 
+- Berbagai pendekatan digunakan oleh ekonom pemasaran untuk mempelajari pemasaran pertanian.
+
+> Kita akan mempelajari empat diantaranya: **pendekatan fungsional** (the functional), **pendekatan institusional** (the institutional), **pendekatan komoditas** (the commodity)  dan **pendekatan perilaku** (the behavioral system).
+
++ Pendekatan fungsional terdiri dari semua aktivitas yang dilakukan dalam menyelesaikan proses pemasaran. 
+- Pendekatan institusional mencakup seluruh pihak yang terlibat di dalam pemasaran.
+- Pendekatan komoditas menggabungkan pendekatan fungsional dengan pendekatan institusional. 
+- Pendekatan sistem perilaku melihat perilaku dari perusahaan-perusahaan yang ada di dalam sistem pemasaran.
+
+<br />
+
+### Pendekatan Fungsional (*The Functional Approach*) <i class="fa-solid fa-tractor" style="color: #fab005;"></i>
+
+- Pendekatan fungsional mempelajari perbedaan aktivitas yang dilakukan dalam mentransformasi produk pertanian menjadi produk yang diinginkan oleh konsumen. 
+  + Termasuk didalamnya semua kegiatan yang dilakukan oleh perusahaan di dalam sistem pemasaran. 
+
+- Tiga fungsi utama yang dilakukan di dalam sistem pemasaran: **fungsi pertukaran, fungsi fisik dan fungsi fasilitasi**.
+
+
+#### Fungsi Pertukaran (*The exchange functions*)
+
+- Fungsi pertukaran/exchange functions (buying and selling) merupakan hal yang biasanya terpikir sebagai pemasaran. 
+- Fungsi pembelian berhubungan pencarian dan pengevaluasian produk dan jasa bagaimana memperolehnya.  
+- Fungsi penjualan berhubungan dengan promosi produk melalui berbagai teknik penjualan dan periklanan. 
+- Secara umum fungsi pertukaan mencakup upaya menemukan pembeli atau penjual, negosiasi harga dan transfer kepemilikan. 
+- Termasuk disini adalah negosiasi harga dan transfer kepemilikan melalui kegiatan pembelian dan penjualan. 
+
+#### Fungsi Fisik/Physical functions
+
+- Fungsi fisik adalah kegiatan dimana penanganan dan perpindahan komoditas dari produsen ke konsumen. 
+- Penanganan ini termasuk penyimpanan, transportasi, pengolahan, manufacturing, handling and packing. 
+- Fungsi ini memungkinkan perpindahan secara nyata komoditas antar waktu dan tempat serta transformasinya ke dalam bentuk yang diinginkan oleh konsumen:
+  + Assembling or concentrating the product at convenient places allows its efficient transportation. 
+  + Storage allows the commodity to be kept until the demand rises, thereby stabilizing supply.
+  + Processing transforms the commodity into the products desired by consumers. 
+  + Grading and standardization allow the consumer to be more confident of the characteristics of the good being purchased.
+
+#### Fungsi Fasilitasi/Facilitating functions
+
+- Fungsi fasilitasi adalah aktivitas yang memungkinkan pertukaran dapat terjadi. 
+- Fungsi ini bukan bagian langsung dari kegiatan perubahan kepemilikan atau perpindahan fisik produk, tetapi hanya memfasilitasi kegiatan tersebut. 
+- Meliputi: standardisasi produk, pembiayaan, penanganan risiko dan market intelligence. 
+
+**Standardisasi**
+
+- Standardisasi menyederhanakan fungsi pertukaran dan mengurangi biaya pemasaran dengan memudahkan pembeli menyatakan apa yang diinginkannya dan penjual menyampaikan apa yang mereka bisa dan ingin ditawarkan berhubungan dengan mutu dan jumlahnya.  
+- Di dalam kondisi tidak ada standardisasi, perdagangan akan menjadi sangat mahal atau tidak mungkin terjadi. 
+
+**Pembiayaan/Financing**
+
+- Di dalam setiap sistem produksi, terjadi jeda/lag antara saat mulai investasi dengan pembayaran dari penjualan produk. 
+- During these lag periods some individual or institution must finance the investment. 
+- The question of where the funding of the investment is to come from, at all points between production and consumption, is one that marketing must address. 
+
+**Penanggungan Risiko/Risk bearing**
+
+- Di dalam kegiatan produksi dan pemasaran selalu terdapat kemungkinan terjadinya kerugian (risiko). 
+- Risiko fisik seperti: the destruction or deterioration of the produce through fire, excessive heat or cold, pests, floods, earthquakes etc. 
+- Risiko pasar: those of adverse changes in the value of the produce between the processes of production and consumption. 
+- Perubahan selera konsumen dapat mengurangi the attractiveness of the produce sehingga disebut risiko juga. 
+- Semua risiko ini ditanggung oleh organisasi, perusahaan dan individu yang ada di dalam rantai pemasaran. 
+
+**Market intelligence**
+
+- Keputusan pemasaran seharusnya didasarkan pada informasi yang handal. 
+- Market intelligence refers to the process of collecting, interpreting, and disseminating information relevant to marketing decisions. Its role is that it reduces the level of risk in decision making.
+- Through market intelligence the seller finds out what the buyer needs and wants.
+- Marketing research helps establish what products are right for the market, which channels of distribution are most appropriate, how best to promote products and what prices are acceptable to the market.
+- Intelligence gathering can be done by the seller, government agency, the ministry of agriculture, or some other concerned organization.
+
+---
+
+### Pendekatan Institusional (Institutional Approach)
+
+- Pendekatan institusional mengkaji badan-badan dan lembaga yang melakukan berbagai fungsi di dalam proses pemasaran. 
+- It focuses on the study of the various institutions, middlemen and other agencies which add utility to the product. 
+- These organizations or market participants are those who perform the activities necessary to transfer goods from the producer to consumer, because of the benefit of specialization and scale that exist in marketing.
+- Biasanya dikelompokkan menjadi beberapa pelaku perantara: pedagang pengumpul, pengepul, pedagang besar, pengolah, pengecer dan spekulan. 
+
+**Mengapa Pendekatan Institusional?**
+
+1. Middlemen‟s specialization in performing a specific marketing functions leads to
+improvement in productivity and hence a decreased cost. This in turn results in price fall adding to the overall efficiency of the market. 
+2. The gains from specialization. Marketing functions are marked by economies of scale. Hence specialization reduces cost and hence improves efficiency. Average cost of performing marketing functions falls as the volume of products handled rises. Jadi pedangan perantara mengurangi "market search and transaction costs".
+
+<br />
+
+### Pendekatan Komoditas (The Commodity Approach)
+
+- Pendekatan ini mengikuti alur perjalan satu komoditas seperti bawang merah, kopi, serta mempelajari apa yang dilakukan terhadap komoditas, siapa yang melakukannya dari hulu sampai hilir.  
+- It helps to pinpoint the specific marketing problems of each commodity as well to develop the market for the specific commodity. 
+- The approach follows the commodity along the path between producer and consumer and is concerned with describing what is done and how the commodity could be handled more efficiently. 
+- It combines both functional and institutional approaches. 
+- It is extremely useful to the person who is interested in only one product since it does allow in depth analyses. 
+
+<br />
+
+### Pendekatan Sistem Perilaku (*Behavioural Systems Approach*)
+
+- Pendekatan ini mempelajari perilaku perusahaan, lembaga dan organisasi yang ada didalam sistem pemasaran. 
+- Pendekatan ini melihat bagaimana perilaku pasar atau tindakan pemasar.
+- Pemahaman perilaku dari individu-individu perilaku penting jika ingin memprediksi perubahan perilaku dan fungsi sistem pemasaran. 
+- Under this approach, marketing firm is considered as a system of behaviour and the emphasis is on “how” change occurs. This approach views marketing as a system within which subsystems are interrelated and interacting each other. And the operation of the system is the results of the interrelationship and interactions of the subsystems. 
+- The behavioural system approach studies the behaviour of each subsystem and predicts its implications to the main system. The point of interest is the people who are making decisions to solve particular marketing problems. This behavioural system allows systems to be identified with the particular problem being addressed.
+
+- This approach tries to answer the following questions:
+  + Can changes be made in the marketing system to lower the price to consumers?
+  + Are producers/manufacturers responding to the needs of the consumer?
+  + Are producers receiving an “adequate” return on their investments?
+  + Are traders‟ abusing their market power or providing incorrect market information?
+
+- In the behavioral systems approach the following are important: The input-output system, the power system, the communication system and the adaptation to internal and external changes.
+
+**The input-output system**
+
+- It identifies motives and means of affecting the input–output ratio. 
+- How can a firm or a group of firms use input resources that are costly and scarce to secure a satisfactory output? What is the optimal combination of inputs to produce a profitable level of output? This is what is called technical or operational efficiency. 
+- The obvious disadvantage of this method is that it is abstract in nature and the reliance on intimate knowledge of individual‟s firm characteristics and behavioural interactions.
+
+**The power system**
+
+- Firms have a status and a vested interest in the role they are playing. For example, reputation for quality, to be market leaders, community conscience and attaining fast growth. 
+- It tries to answer the questions, how is their motivation and competence to grow and expand, to be innovators or followers etc.? 
+- It studies the level and type of market power of each buyers and sellers in the market and analyses the implications in shaping their behaviour in the market.
+- Market power is the ability to affect prices. 
+  + Oligopoly (selling power) and oligopsony powers (buying power) are the two non-competitive marketing behaviours of traders. 
+  + Monopoly (one seller) and monopsony (one buyer) are the two extremes of these
+non-competitive marketing behaviours.
+
+**Sistem Komunikasi/Communication systems**
+
+- Farmers and traders must get information to make appropriate marketing decisions. However,market information, especially in developing economies are limited, and if they exist they are mostly unreliable. 
+- These problems are mainly due to lack of effective channels of information and
+direction and misinterpretation. 
+- Hence the question of how to establish effective channels of information is very important to improve the marketing performance.
+
+**Penyesuaian terhadap perubahan internal dan eksternal/adapting to internal and external changes**
+
+- If change is the essential characteristics of marketing, then how to adapt to these changes is a major problem. As a rule, firms desire to survive and are ready to pay so to adapt to changes.
+
+**JADI**
+
+- All the four behavioural systems are components of the operation of a marketing
+system at any one time. A firm may forgo the ultimate in input-output solution because its communication systems have broken down or because of considerations of its power situations. For example, a firm may, prefer integrating with another firm in order to improve its internal communication problems or to enhance its power in the market place. 

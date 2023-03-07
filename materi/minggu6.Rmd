@@ -1,0 +1,55 @@
+---
+title: "Subsistem Prasarana"
+author: "Tedy Herlambang"
+date: "`r Sys.Date()`"
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+---
+
+## PENDAHULUAN
+
+- Pengembangan agribisnis di suatu daerah memerlukan dukungan prasarana yang memadai. 
+- Prasarana fisik dan non-fisik dibutuhkan untuk menunjang terlaksananya kegiatan penyediaan faktor produksi, kegiatan produksi, pengolahan, dan pemasaran.
+
+### A. Prasarana Fisik
+
+- segala jenis fasilitas yang
+disediakan baik oleh masyarakat maupun pemerintah untuk
+menunjang kehidupan masyarakat.
+
+- dapat dilihat, diraba, dan
+dirasakan/dinikmati keberadaannya.
+
+- jalan, saluran irigasi,
+bendungan, waduk, sarana transportasi, air, listrik, gudang,
+penggilingan padi, pasar, dan lain sebagainya.
+
+- Peran prasarana fisik dalam menunjang kesuksesan pengembangan
+kegiatan agribisnis (Soekartawi, 1993; 2000) adalah:
+  + Memperlancar tersedianya sarana produksi dan peralatan.
+  + Memperlancar penjualan hasil pertanian.
+  + Memperlancar perolehan informasi harga.
+  + Meningkatkan kemampuan wirausaha para pelaku agribisnis.
+  + Menambah keuntungan yang diterima petani.
+  + Meningkatkan perekonomian daerah.
+  
+### B. Prasarana Non-Fisik
+
+- Prasarana non-fisik yang diperlukan untuk pengembangan usaha pertanian (Soekartawi, 1993; 2000) adalah:
+  + Tersedianya lembaga yang mampu menyediakan dan menyalurkan sarana produksi yang tepat jumlah dan tepat waktu. Hal ini disebabkan sifat khas pertanian, bila terlambat
+tanam hasilnya tidak baik. Demikian juga jika dosis pupuk tidak
+mencukupi maka hasilnya juga tidak baik.
+  + Tersedianya lembaga yang mampu memberikan insentif bagi
+petani dan para pelaku agribisnis yang lain.
+  + Tersedianya lembaga penyuluhan yang memberikan penyuluhan
+pada petani.
+  + Tersedianya lembaga yang bersedia menampung, membeli, dan
+memasarkan hasil pertanian.
+
+Beberapa Prasarana nonfisik penting di Indonesia:
+
+1. Koperasi
+2. Penyuluh
+3. Kelompok Tani

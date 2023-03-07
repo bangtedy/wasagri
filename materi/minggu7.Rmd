@@ -1,0 +1,117 @@
+---
+title: "Subsistem Pembinaan"
+author: "Tedy Herlambang"
+date: "`r Sys.Date()`"
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+---
+
+Kegiatan pembinaan umumnya dilakukan oleh
+pemerintah, swasta, lembaga swadaya masyarakat, kelompok
+masyarakat, dan institusi atau lembaga lain. Menurut Soekartawi
+(1993; 2000), pembinaan agribisnis di Indonesia seringkali
+dihadapkan pada berbagai masalah antara lain:
+
+1. Pola produksi pertanian yang terpencar-pencar sehingga
+eksisitensinya tidak kompak.
+2. Keadaan infrastruktur yang belum memadai.
+3. Pola agroindustri yang mengelompok terkonsentrasi di kota-kota
+besar menyebabkan sulitnya untuk menyediakan faktor produksi.
+4. Kondisi geografis Indonesia yang terdiri dari berbagai pulau juga
+menjadi kendala utama untuk mencapai harga produk agroindustri yang relatif murah.
+
+Pembinaan agribisnis harus pula diarahkan untuk:
+
+1. Meningkatkan keterampilan dan kemampuan petani untuk
+berusahatani secara efisien.
+2. Memperluas informasi pasar dan peluang pasar.
+3. Meningkatkan standarisasi produk-produk pertanian.
+4. Meningkatkan kelembagaan di pedesaan.
+5. Meningkatkan hubungan antar kelembagaan.
+
+Subsistem pembinaan dapat diklasifikasikan menjadi 4 hal yaitu:
+
+1. Pembinaan standarisasi dan akreditasi.
+2. Pembinaan pengembangan informasi pasar.
+3. Pembinaan usaha dan hubungan kelembagaan.
+4. Pembinaan pengembangan investasi dan pengelolaan lingkungan
+berkelanjutan.
+
+### A. Pembinaan Standarisasi dan Akreditasi
+
+Penting:
+
+1. Produk pertanian beragam baik dilihat dari ukuran, kualitas, dan
+sebagainya.
+2.
+Persaingan global semakin terasa, persaingan secara kompetitif
+semakin terbuka, dan ini memerlukan kerjasama untuk
+menciptakan dan memelihara kualitas barang.
+
+Tujuan pembinaan standarisasi dan akreditasi adalah:
+
+1. Meningkatkan efisiensi produksi.
+2. Melindungi konsumen.
+3. Meningkatkan produksi dan pendapatan petani.
+4. Menciptakan iklim usaha yang lebih sehat.
+5. Meningkatkan daya saing.
+6. Melancarkan jalannya aktivitas pemasaran.
+7. Mendorong berkembangnya investasi.
+8. Membantu pelestarian alam.
+
+### B. Pembinaan Pengembangan Informasi Pasar
+
+Manfaat pengembangan informasi pasar:
+
+1. Sistem produksi. Dengan informasi pasar yang jelas, petani atau
+produsen dapat mengembangkan jenis produk pertanian mana
+yang diminati konsumen, dapat membeli sarana produksi dan
+peralatan yang lebih murah, dapat mengetahui di mana sarana
+produksi tersebut diperoleh, dan sebagainya.
+
+2. Sistem konsumsi. Keberadaan informasi pasar memungkinkan
+konsumen membeli dengan tidak ragu-ragu, taksiran jumlah
+produk yang diperlukan konsumen dapat diketahui, dan
+perencanaan produksi dan konsumsi dapat dibuat secara lebih
+baik.
+
+3. Sistem distribusi. Informasi pasar membuat sistem distribusi
+menjadi semakin efisien dan produk yang diperlukan oleh
+konsumen dapat dipenuhi secara cepat.
+
+### C. Pembinaan Usaha dan Hubungan Kelembagaan
+
+1. Petani atau keluarga tani berperan dalam pengadaan dan
+penyediaan faktor produksi, pemasaran hasil, dan bekerjasama
+dengan petani lain dalam kelompok tani.
+2. Koperasi melakukan kegiatan penyaluran sarana produksi,
+melayani kebutuhan anggota, memberikan pinjaman modal, dan
+bekerjasama dengan koperasi lain.
+3. Swasta seperti industri pengolahan memiliki peran menyediakan
+dan menyalurkan sarana produksi, memberikan bimbingan teknis,
+membeli hasil produksi dari petani, memberi dukungan teknologi
+kepada petani, menyediakan modal usaha, dan bekerjasama
+dengan koperasi dan lembaga lainnya dalam melakukan
+kegiatannya.
+4. Lembaga keuangan menyediakan dan menyalurkan kredit untuk
+modal usaha bagi petani, swasta, dan lembaga agribisnis lainnya.
+5. Lembaga pemasaran membeli produk petani untuk dijual kembali.
+6. Pemerintah melakukan pembinaan dengan memberikan
+bimbingan teknis, membangun prasarana, membuat kebijakan,
+memberikan modal usaha, dan bekerjasama dengan semua pelaku
+agribisnis.
+
+### D. Pembinaan Pengembangan Investasi dan Pengelolaan Lingkungan Berkelanjutan
+
+- Investment: 
+  + long gestation period
+  + risk
+  + return
+  + uncertainty
+
+- Sustainability
+  + economic
+  + social
+  + environment
