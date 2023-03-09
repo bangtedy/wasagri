@@ -48,6 +48,8 @@ Setelah mempelajari bab ini, mahasiswa seharusnya dapat:
   1. Produsen benih/bibit, pupuk, obat-obatan, pembiayaan, peralatan yang digunakan dalam produksi pertanian; 
   2. Kegiatan pasca panen dan pengolahan: grading, penyimpanan, pengolahan, pengepakan, distribusi, penetapan harga dan pemasaran; 
   3. Konsumsi akhir: restoran, supermarket, pasar traditional.
+  
+![](market.png)
 
 * Jadi industri inti agribisnis ada tiga: *input supply industries, production agriculture* dan *value-added activities*. 
 * Farming are part of the core of agribusiness. But, they are not the end; they are not even the beginning.
