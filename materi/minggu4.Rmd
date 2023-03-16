@@ -7,8 +7,10 @@ output:
     theme: cyman
     highlight: github
 ---
+[![Home](pot.png){width="10%"}](https://bangtedy.github.io/wasagri)
 
 ### Capaian Pembelajaran
+
 Setelah mempelajari materi ini mahasiswa seharusnya dapat:
 
 1. Menjelaskan pengertian pengolahan hasil pertanian
